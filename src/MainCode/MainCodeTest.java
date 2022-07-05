@@ -1,12 +1,7 @@
-import com.sun.tools.javac.Main;
-import org.junit.Assert;
-import org.junit.Before;
-import org.junit.Test;
+package MainCode;
 
-import java.lang.reflect.Field;
-import java.util.Arrays;
-import java.util.LinkedList;
-import java.util.Random;
+import org.junit.Assert;
+import org.junit.Test;
 
 public class MainCodeTest {
 

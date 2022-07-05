@@ -1,3 +1,5 @@
+package MainCode;
+
 import java.util.*;
 
 public class MainCode {
